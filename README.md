@@ -7,3 +7,5 @@
 -color highight
 -code runner
 -auto rename tag
+=======================================================================
+https://css-tricks.com/snippets/html/glyphs/ //html symbols
