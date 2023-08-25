@@ -40,11 +40,29 @@ li {
   font-size: 20px;
 }
 
-footer p {
+/* footer p {
+  font-size: 15px;
+} */
+
+/*article header p {
+  font-size: 18px;
+  font-style: italic;
+}*/
+
+#author {
+  font-size: 18px;
+  font-style: italic;
+}
+
+#Copyright {
   font-size: 15px;
 }
 
-article header p {
+.related-author {
   font-size: 18px;
-  font-style: italic;
+  font-weight: bold;
+}
+
+.related-point {
+  list-style: none;
 }
