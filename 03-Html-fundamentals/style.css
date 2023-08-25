@@ -5,6 +5,12 @@ h4,
 p,
 li {
   font-family: sans-serif;
+  color: #444;
+}
+h1,
+h2,
+h3 {
+  color: #1098ad;
 }
 
 h1 {
@@ -65,4 +71,21 @@ li {
 
 .related-point {
   list-style: none;
+}
+.main-header {
+  background-color: #a9a9ad;
+}
+
+aside {
+  color: aqua;
+  border-top: 5px solid;
+  border-bottom: 5px solid;
+}
+
+li:last-child {
+  color: red;
+}
+
+li:first-child {
+  color: red;
 }
