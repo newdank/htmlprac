@@ -89,3 +89,11 @@ li:last-child {
 li:first-child {
   color: red;
 }
+
+li:nth-child(even) {
+  color: red;
+}
+
+article p:last-child {
+  color: red;
+}
