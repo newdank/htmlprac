@@ -1,13 +1,13 @@
-h1,
-h2,
-h3,
-h4,
-p,
-li {
+/* Below is the universal selector */
+/* * {
+  color: purple;
+} */
+
+body {
   font-family: sans-serif;
   color: #444;
 }
-h1,
+s h1,
 h2,
 h3 {
   color: #1098ad;
