@@ -117,3 +117,21 @@ a:active {
   background-color: black;
   font-style: italic;
 }
+
+/* #Copyright {
+  color: red;
+} */
+
+/* checking for heigharchy from below. */
+.Copyright {
+  color: green;
+}
+
+.text {
+  color: yellow;
+}
+
+footer p {
+  color: magenta;
+  /* color: magenta !important; */
+}
