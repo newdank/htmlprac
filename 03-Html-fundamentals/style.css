@@ -13,6 +13,20 @@ h3 {
   color: #1098ad;
 }
 
+.main-header {
+  background-color: #a9a9ad;
+  /* padding: 20px;
+  padding-left: 40px;
+  padding-right: 40px; */
+  padding: 20px 40px;
+}
+
+aside {
+  color: aqua;
+  border-top: 5px solid;
+  border-bottom: 5px solid;
+}
+
 h1 {
   color: blue;
   font-size: 30px;
@@ -44,8 +58,12 @@ p {
 }
 li {
   font-size: 20px;
+  padding-bottom: 10px;
 }
 
+li:last-child {
+  margin-bottom: 0;
+}
 /* footer p {
   font-size: 15px;
 } */
@@ -71,15 +89,6 @@ li {
 
 .related-point {
   list-style: none;
-}
-.main-header {
-  background-color: #a9a9ad;
-}
-
-aside {
-  color: aqua;
-  border-top: 5px solid;
-  border-bottom: 5px solid;
 }
 
 li:last-child {
