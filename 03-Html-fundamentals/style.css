@@ -144,3 +144,15 @@ footer p {
   color: magenta;
   /* color: magenta !important; */
 }
+
+.somecode {
+  width: 100%;
+  height: auto;
+}
+
+.everything {
+  width: 1000px;
+  /* margin-left: auto;
+  margin-right: auto; */
+  margin: 0 auto;
+}
