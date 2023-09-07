@@ -1,0 +1,64 @@
+h1,
+h2,
+h3 {
+  text-transform: uppercase;
+}
+h2 {
+  text-align: center;
+}
+
+aside {
+  width: 825px;
+  margin-left: 200px;
+  margin-right: auto;
+  margin-top: 50px;
+  border: 5px solid;
+  padding: auto auto;
+}
+li {
+  padding: 5px;
+}
+
+.dollar {
+  font-size: 30px;
+  padding: 0;
+  margin: 0;
+}
+
+.newp {
+  text-transform: uppercase;
+  font-size: 12px;
+  color: #777;
+  padding: 0;
+  margin: 0;
+}
+
+.info {
+  text-decoration: underline;
+}
+
+ul {
+  list-style: square;
+}
+
+button {
+  background-color: black;
+  width: 825px;
+  padding: auto auto;
+  color: white;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+}
+
+a {
+  text-decoration: underline;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
+}
