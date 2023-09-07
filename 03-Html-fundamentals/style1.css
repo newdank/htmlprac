@@ -9,11 +9,9 @@ h2 {
 
 aside {
   width: 825px;
-  margin-left: 200px;
-  margin-right: auto;
-  margin-top: 50px;
-  border: 5px solid;
-  padding: auto auto;
+  margin: 0 auto;
+  border: 5px solid black;
+  /* padding: auto auto; */
 }
 li {
   padding: 5px;
@@ -42,14 +40,23 @@ ul {
 }
 
 button {
+  border: none;
   background-color: black;
-  width: 825px;
-  padding: auto auto;
+  width: 100%;
+  /* padding: auto auto; */
+  padding: 15px;
+  text-transform: uppercase;
   color: white;
+  border-top: 10px solid black;
 }
 
 button:hover {
+  border: none;
   background-color: white;
+  padding: 15px;
+  width: 100%;
+  /* border-top: 100px; */
+  border-top: 3px solid black;
   color: black;
 }
 
